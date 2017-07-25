@@ -1,2 +1,2 @@
-# springboot-learning
+# springcloud-learning
 spring boot learning
